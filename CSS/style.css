@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+    margin: 10px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 380.5%;
+    color: #66BFBF;
+    line-height: 1;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+    color: #66BFBF;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 15px;
+}
+
+p {
+    font-size: small;
+}
+
+.top-container {
+    position: relative;
+    background-color: #EAF6F6;
+    padding-top: 120px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.mountain-img {
+    height: 240px;
+    width: 350px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 180px;
+    bottom: 200px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 10px auto 100px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-img {
+    /* height: 200px; */
+    width: 25%;
+    float: right;
+    margin-left: 15px;
+}
+
+.profile-img {
+    width: 20%;
+    height: 150px;
+}
+
+.btn {
+    background-color: #27d2db;
+    color: #e3edeb;
+    border-radius: 8px;
+    font-size: 20px;
+    padding: 6px 18px 6px 18px;
+    text-decoration: none;
+    line-height: 5;
+}
+
+.btn:hover {
+    color: #58e2cf;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    line-height: 3;
+    height: 120px;
+}
+
+.footer-link {
+    padding-left: 5%;
+    color: #11999e;
+    text-decoration: none;
+}
+
+#copyright {
+    color: #EAF6F6;
+}
+
+hr {
+    color: #b8c0c0;
+    border-top: none;
+    border-bottom: dotted 4px;
+    width: 8%;
+}
